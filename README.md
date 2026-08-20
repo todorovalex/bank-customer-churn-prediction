@@ -105,11 +105,17 @@ Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn, Google Colab
 
 ## Repository Structure
 ```
-data/         # dataset (or link to download)
-notebooks/    # analysis notebook
+data/ # dataset source and instructions (see data/README.md)
+notebooks/ # full analysis notebook (EDA, modeling, evaluation)
+images/ # exported charts used in this README
 src/          # reusable functions (if applicable)
 ```
 
 ## Notebook
 
 The full analysis, including all code, visualizations, and detailed findings for each variable, is available in [`notebooks/bank_churn_prediction.ipynb`](notebooks/bank_churn_prediction.ipynb).
+
+---
+
+**Aleksandar Todorov Kostadinov**
+Bank Customer Churn Prediction Project — Jul–Aug 2026
