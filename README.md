@@ -115,6 +115,10 @@ src/          # reusable functions (if applicable)
 
 The full analysis, including all code, visualizations, and detailed findings for each variable, is available in [`notebooks/bank_churn_prediction.ipynb`](notebooks/bank_churn_prediction.ipynb).
 
+## Report
+
+A full formal write-up of this project — including methodology, all charts, and business recommendations — is available as a PDF: [`reports/Bank_Customer_Churn_Prediction_Report.pdf`](reports/Bank_Customer_Churn_Prediction_Report.pdf)
+
 ---
 
 **Aleksandar Todorov Kostadinov**
